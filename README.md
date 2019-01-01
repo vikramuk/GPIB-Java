@@ -1,4 +1,4 @@
 Sample
 ======
 
-Sample Code
+Configure GPIB communication for Java
